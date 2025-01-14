@@ -1,7 +1,27 @@
-- 👋 Hi, I’m @shri-ram07
-- 👀 I’m interested in PYTHON 
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT 
-- 💞️ I’m looking to Internship 
+
+
+# Shri Ram Dwivedi
+
+## 👋 Hello, world! 
+
+I am currently pursuing a B.Tech with a specialization in Artificial Intelligence and Machine Learning (AIML). I am passionate about leveraging technology to solve real-world problems and am constantly looking for new challenges and opportunities to learn.
+
+### 💡 About Me
+- 📚 Studying: B.Tech in AIML
+- 💻 Skills: Python, TensorFlow, PyTorch, Machine Learning, Data Science
+- 📈 Interested in: Deep Learning, AI Ethics, Natural Language Processing
+- 🌟 Hobbies: Coding, Reading Sci-Fi novels, Chess Enthusiast
+
+### 🛠️ Projects
+1. **Automated Power Monitoring System**
+
+2. **Student Management System**
+
+
+“I am passionate about leveraging technology to make a positive impact on society.”
+
+Feel free to reach out to me if you want to discuss technology, collaborate on a project, or just say hi!
+
 - 📫 You can reach me through raunakd511@gmail.com
 
 <!---
