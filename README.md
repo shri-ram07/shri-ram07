@@ -13,10 +13,11 @@ I am currently pursuing a B.Tech with a specialization in Artificial Intelligenc
 - 🌟 Hobbies: Coding, Reading Sci-Fi novels, Chess Enthusiast
 
 ### 🛠️ Projects
-1. **DeepFakeDetection**
-2. **FakeNewsDetection(NLP)**
-3. **Automated Power Monitoring System**
-4. **Student Management System**
+1. **SymptomIQ**
+2. **DeepFakeDetection**
+3. **FakeNewsDetection(NLP)**
+4. **Automated Power Monitoring System**
+5. **Student Management System**
 
 
 “I am passionate about leveraging technology to make a positive impact on society.”
