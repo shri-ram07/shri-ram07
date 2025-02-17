@@ -39,8 +39,8 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Show build status
-        run: git status
+      - name: Verify Output Directory
+        run: ls -la dist
 
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
