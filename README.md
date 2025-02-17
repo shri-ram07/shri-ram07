@@ -22,9 +22,13 @@
  <div align="center">
  
 ⚡**SymptomIQ** : A Flask-based health predictor using TensorFlow and Google Gemini API, providing tailored medical advice and doctor recommendations via geolocation.
+<br></br>
 ⚡**Deep Fake Detector** : A web tool to classify images as "FAKE" or "REAL" using TensorFlow, featuring interactive progress bars for enhanced user experience.
+<br></br>
 ⚡**Fake News Detection System** : An NLP-based solution to detect and classify fake news articles using Python, NLTK, and scikit-learn.
+<br></br>
 ⚡**Automated Power Monitoring System** : A computer vision-powered system to optimize energy usage by detecting human presence and controlling appliances in real-time.
+<br></br>
 ⚡**Student Management System** : A Tkinter-based application integrated with MySQL for secure student data management, featuring CRUD functionality and a secure login system.
 
  </div>
