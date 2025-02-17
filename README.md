@@ -20,7 +20,7 @@
 
 </div>
 <div>
-    <div align="center">Projects</div>
+    <div align="center"><h2>Featured Projects</h2></div>
     <div align="center">
         <li>SymptomIQ</li>
         <li>Deep Fake Detector </li>
