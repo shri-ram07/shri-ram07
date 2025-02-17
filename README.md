@@ -19,6 +19,15 @@
 ⚡ Fun fact: **The first AI program, written in 1951, played chess and could beat amateur players!**  
 
  </div>
+ <div align="center">
+ 
+⚡**SymptomIQ** : A Flask-based health predictor using TensorFlow and Google Gemini API, providing tailored medical advice and doctor recommendations via geolocation.
+⚡**Deep Fake Detector** : A web tool to classify images as "FAKE" or "REAL" using TensorFlow, featuring interactive progress bars for enhanced user experience.
+⚡**Fake News Detection System** : An NLP-based solution to detect and classify fake news articles using Python, NLTK, and scikit-learn.
+⚡**Automated Power Monitoring System** : A computer vision-powered system to optimize energy usage by detecting human presence and controlling appliances in real-time.
+⚡**Student Management System** : A Tkinter-based application integrated with MySQL for secure student data management, featuring CRUD functionality and a secure login system.
+
+ </div>
  
 <div align="center"> 
   <a href="mailto:Raunakd511@gmail.com">
