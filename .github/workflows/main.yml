@@ -39,8 +39,8 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Verify Output Directory
-        run: ls -la dist
+      - name: Show build status
+        run: git status
 
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -49,4 +49,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
