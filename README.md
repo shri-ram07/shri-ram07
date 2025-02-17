@@ -21,12 +21,12 @@
 </div>
 <div>
     <div align="center">Projects</div>
-    <div>
-        <ul>SymptomIQ</ul>
-        <ul>Deep Fake Detector </ul>
-        <ul>Fake News Detection System (NLP Project) </ul>
-        <ul>Automated Power Monitoring System  </ul>
-        <ul>SStudent Management System  </ul>
+    <div align="center">
+        <li>SymptomIQ</li>
+        <li>Deep Fake Detector </li>
+        <li>Fake News Detection System (NLP Project) </li>
+        <li>Automated Power Monitoring System  </li>
+        <li>SStudent Management System  </li>
     </div>
 </div>
 
