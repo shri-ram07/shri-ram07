@@ -19,34 +19,16 @@
 ⚡ Fun fact: **The first AI program, written in 1951, played chess and could beat amateur players!**  
 
 </div>
-## Projects
-
-### SymptomIQ  
-[🔗 Project Link](LINK) | Jan - Feb 2025  
-- Developed a Flask-based web application that predicts health conditions using a TensorFlow model.
-- Integrated Google Gemini API for tailored medical advice and geolocation for personalized doctor recommendations.
-
-### Deep Fake Detector  
-[🔗 Project Link](LINK) | Jan - Feb 2025  
-- Built a web-based deepfake detection tool using TensorFlow and Flask.
-- Enabled users to upload images and classify them as "FAKE" or "REAL" with an accuracy-driven machine learning model.
-- Implemented interactive progress bars and animations for enhanced user experience.
-
-### Fake News Detection System (NLP Project)  
-[🔗 Project Link](LINK) | Dec 2024  
-- Developed an ML-based solution using NLP techniques to detect and classify fake news articles.
-- Achieved [% accuracy] using Python, NLTK, and scikit-learn for text analysis and model development.
-
-### Automated Power Monitoring System  
-[🔗 Project Link](LINK) | Sept - Nov 2024  
-- Created a real-time human presence detection system using computer vision to monitor room occupancy.
-- Optimized energy usage by automating appliance control based on occupancy detection.
-
-### Student Management System  
-[🔗 Project Link](LINK) | Aug - Dec 2024  
-- Developed a comprehensive student management system with a Tkinter-based interface.
-- Integrated MySQL for secure data storage, implemented CRUD functionality, and added a secure login system.
-
+<div>
+    <div align="center">Projects</div>
+    <div>
+        <ul>SymptomIQ</ul>
+        <ul>Deep Fake Detector </ul>
+        <ul>Fake News Detection System (NLP Project) </ul>
+        <ul>Automated Power Monitoring System  </ul>
+        <ul>SStudent Management System  </ul>
+    </div>
+</div>
 
  
 <div align="center"> 
